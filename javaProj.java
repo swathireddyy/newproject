@@ -11,10 +11,5 @@ class javaProj{
 		int a=4;
 		int b=5;
 		return (a*b);
-}
-	public class sub(){
-		int a=10;
-		int b=5;
-		return (a-b);
-}
+	}	
 }
