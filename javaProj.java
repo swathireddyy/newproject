@@ -12,4 +12,9 @@ class javaProj{
 		int b=5;
 		return (a*b);
 }
+	public class sub(){
+		int a=10;
+		int b=5;
+		return (a-b);
+}
 }
